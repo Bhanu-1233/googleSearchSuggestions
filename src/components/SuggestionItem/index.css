@@ -1,0 +1,12 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.arrow-img {
+  height: 25px;
+  width: 25px;
+}
+.para-text {
+  color: #475569;
+}
